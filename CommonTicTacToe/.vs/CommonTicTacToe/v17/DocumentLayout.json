@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE4877-D37A-48D4-8146-19B1BC68F82D}|..\\3D_TicTacToe\\3D_TicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\3d_tictactoe\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\commontictactoe\\modelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|solutionrelative:modelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\commontictactoe\\inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|solutionrelative:inputcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\commontictactoe\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|solutionrelative:gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\commontictactoe\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|solutionrelative:cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\commontictactoe\\mymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|solutionrelative:mymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\commontictactoe\\moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|solutionrelative:moving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\commontictactoe\\othermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|solutionrelative:othermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\commontictactoe\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|solutionrelative:texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\commontictactoe\\velocitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|solutionrelative:velocitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\commontictactoe\\graphicssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|solutionrelative:graphicssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE4877-D37A-48D4-8146-19B1BC68F82D}|..\\3D_TicTacToe\\3D_TicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\3d_tictactoe\\gamepadselectionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C001743-0868-4DDF-9D28-4D3AC4134848}|..\\2D_TicTacToe\\2D_TicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\2d_tictactoe\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\commontictactoe\\icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|solutionrelative:icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\commontictactoe\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F1BD1380-E15B-4682-B17E-CF88394B1BB0}|CommonTicTacToe.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AFE4877-D37A-48D4-8146-19B1BC68F82D}|..\\3D_TicTacToe\\3D_TicTacToe.csproj|c:\\users\\vaugh\\source\\repo3\\c-sharpassignment13\\3d_tictactoe\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Moving.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\Moving.cs",
+              "RelativeDocumentMoniker": "Moving.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\Moving.cs",
+              "RelativeToolTip": "Moving.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:24:13.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "otherModel.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\otherModel.cs",
+              "RelativeDocumentMoniker": "otherModel.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\otherModel.cs",
+              "RelativeToolTip": "otherModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:23:40.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Texture.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\Texture.cs",
+              "RelativeDocumentMoniker": "Texture.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\Texture.cs",
+              "RelativeToolTip": "Texture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:23:00.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VelocityBase.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\VelocityBase.cs",
+              "RelativeDocumentMoniker": "VelocityBase.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\VelocityBase.cs",
+              "RelativeToolTip": "VelocityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:22:20.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GraphicsSetup.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\GraphicsSetup.cs",
+              "RelativeDocumentMoniker": "GraphicsSetup.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\GraphicsSetup.cs",
+              "RelativeToolTip": "GraphicsSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:06:37.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GamePadSelectionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\3D_TicTacToe\\GamePadSelectionStatus.cs",
+              "RelativeDocumentMoniker": "..\\3D_TicTacToe\\GamePadSelectionStatus.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\3D_TicTacToe\\GamePadSelectionStatus.cs",
+              "RelativeToolTip": "..\\3D_TicTacToe\\GamePadSelectionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:55:06.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\2D_TicTacToe\\Game1.cs",
+              "RelativeDocumentMoniker": "..\\2D_TicTacToe\\Game1.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\2D_TicTacToe\\Game1.cs",
+              "RelativeToolTip": "..\\2D_TicTacToe\\Game1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:54:04.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelManager.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\ModelManager.cs",
+              "RelativeDocumentMoniker": "ModelManager.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\ModelManager.cs",
+              "RelativeToolTip": "ModelManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:52:54.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputController.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\InputController.cs",
+              "RelativeDocumentMoniker": "InputController.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\InputController.cs",
+              "RelativeToolTip": "InputController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:52:05.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameGrid.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\GameGrid.cs",
+              "RelativeDocumentMoniker": "GameGrid.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\GameGrid.cs",
+              "RelativeToolTip": "GameGrid.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:50:30.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\CameraManager.cs",
+              "RelativeDocumentMoniker": "CameraManager.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\CameraManager.cs",
+              "RelativeToolTip": "CameraManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:49:17.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\3D_TicTacToe\\Game1.cs",
+              "RelativeDocumentMoniker": "..\\3D_TicTacToe\\Game1.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\3D_TicTacToe\\Game1.cs",
+              "RelativeToolTip": "..\\3D_TicTacToe\\Game1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:42:08.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "myModel.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\myModel.cs",
+              "RelativeDocumentMoniker": "myModel.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\myModel.cs",
+              "RelativeToolTip": "myModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:42:01.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-04-09T18:41:38.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Icon.ico -  [English (United States)] - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\Icon.ico",
+              "RelativeDocumentMoniker": "Icon.ico",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\CommonTicTacToe\\Icon.ico -  [English (United States)] - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "Icon.ico -  [English (United States)] - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-04-09T18:41:36.779Z",
+              "EditorCaption": " -  [English (United States)] - Icon [256x256, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\3D_TicTacToe\\Grid.cs",
+              "RelativeDocumentMoniker": "..\\3D_TicTacToe\\Grid.cs",
+              "ToolTip": "C:\\Users\\vaugh\\source\\repo3\\C-SharpAssignment13\\3D_TicTacToe\\Grid.cs",
+              "RelativeToolTip": "..\\3D_TicTacToe\\Grid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:41:35.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
